@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="tv_nama">Nama Produk</string>
-    <string name="tv_harga">Harga</string>
-    <string name="hint_nama">nama produk</string>
-    <string name="hint_harga">harga produk</string>
-</resources>
